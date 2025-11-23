@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Taoufik ADOHANE — Approche clinique, analytique et anthropologique</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Taoufik ADOHANE</h1>
+      <p class="site-subtitle">Approche clinique, analytique et anthropologique</p>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a>
+        <a href="about.html">À propos</a>
+        <a href="publications.html">Publications</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-text">
+        <h2>Psychologue clinicien • Anthropologue • Docteur en Anthropologie</h2>
+        <p>Mes travaux articulent clinique analytique, anthropologie et perspective transculturelle. J’étudie notamment la protection maternelle et infantile (PMI), la protection de l’enfance, le soutien psychologique pour l’insertion des jeunes et les dispositifs médico-sociaux.</p>
+        <p><a class="btn" href="publications.html">Voir mes publications</a></p>
+      </div>
+      <div class="hero-photo">
+        <!-- Remplace "placeholder.jpg" par ta photo (même nom) ou laisse tel quel -->
+        <img src="placeholder.jpg" alt="Photo de Taoufik ADOHANE">
+      </div>
+    </section>
+
+    <section class="highlights">
+      <article>
+        <h3>Domaines d'expertise</h3>
+        <ul>
+          <li>Psychologie clinique analytique · Psychothérapie</li>
+          <li>Anthropologie sociale et culturelle</li>
+          <li>Psychologie intra / inter / transculturelle</li>
+          <li>Santé mentale en contexte (MHPSS) · Analyse des pratiques professionnelles</li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>Activités</h3>
+        <ul>
+          <li>Enseignant et formateur (approche clinique et anthropologique)</li>
+          <li>Président de jurys, intervenant expert (CNFPT)</li>
+          <li>Auteur d'ouvrages, articles et chapitres</li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="contact" class="contact">
+      <h3>Contact</h3>
+      <p>Courriel : <a href="mailto:ton.email@exemple.com">ton.email@exemple.com</a> (remplace par ton adresse)</p>
+      <p>Pour invitations, conférences et collaborations.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© Taoufik ADOHANE — Tous droits réservés</p>
+      <p><small>Site créé pour publication et diffusion des travaux scientifiques</small></p>
+    </div>
+  </footer>
+</body>
+</html>
