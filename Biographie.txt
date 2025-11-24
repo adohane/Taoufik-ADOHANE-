@@ -1,0 +1,43 @@
+2?? biographie.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Biographie – Taoufik Adohane</title>
+  <meta name="description" content="Biographie de Taoufik Adohane, psychologue clinicien et anthropologue, formateur et auteur.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Biographie</h1>
+  <nav>
+    <a href="index.html">Accueil</a>
+    <a href="biographie.html">Biographie</a>
+    <a href="publications.html">Publications</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Parcours</h2>
+  <p>Docteur en anthropologie et psychologue clinicien, formé à l’Université de Paris Cité, j’ai développé une pratique et une recherche centrées sur l’approche clinique, analytique, anthropologique et transculturelle.</p>
+  <p>Mon expérience a été nourrie par un travail longitudinal en Protection Maternelle et Infantile (PMI), en protection de l’enfance, dans les dispositifs de soutien psychologique liés à l’insertion sociale et professionnelle des jeunes en difficulté, ainsi que dans l’analyse des pratiques professionnelles dans les secteurs éducatif, médico-social et hospitalier.</p>
+  <p>J’ai également enseigné l’anthropologie et la clinique, été président de jurys de concours et intervenant expert au CNFPT.</p>
+
+  <h2>Domaines d'expertise</h2>
+  <ul>
+    <li>Psychologie clinique analytique</li>
+    <li>Psychothérapie</li>
+    <li>Anthropologie culturelle et sociale</li>
+    <li>Psychologie interculturelle et transculturelle</li>
+    <li>Rites, enfance, dynamiques familiales</li>
+  </ul>
+</div>
+
+<footer>
+  © 2025 Taoufik Adohane – Tous droits réservés
+</footer>
+
+</body>
+</html>
