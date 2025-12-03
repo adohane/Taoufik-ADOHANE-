@@ -1,8 +1,0 @@
-6?? sitemap.xml
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://adohane.github.io/Taoufik-ADOHANE-/</loc></url>
-  <url><loc>https://adohane.github.io/Taoufik-ADOHANE-/biographie.html</loc></url>
-  <url><loc>https://adohane.github.io/Taoufik-ADOHANE-/publications.html</loc></url>
-  <url><loc>https://adohane.github.io/Taoufik-ADOHANE-/contact.html</loc></url>
-</urlset>
