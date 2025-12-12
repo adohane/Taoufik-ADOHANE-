@@ -48,3 +48,16 @@ footer {
     font-size: 0.9em;
     color: #2f4f4f;
 }
+.profil-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.profil {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #4a7c59;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
